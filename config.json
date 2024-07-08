@@ -1,0 +1,16 @@
+{
+  "production": {
+    "account": "123456789012",
+    "region": "region_name",
+    "stack_name": "ProductionStack",
+    "table_name": "ProdItemsTable",
+    "api_gateway_name": "ProdItemsApi"
+  },
+  "development": {
+    "account": "123456789012",
+    "region": "region_name2",
+    "stack_name": "DevelopmentStack",
+    "table_name": "DevItemsTable",
+    "api_gateway_name": "DevItemsApi"
+  }
+}
